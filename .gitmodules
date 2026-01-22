@@ -1,0 +1,6 @@
+[submodule "PBB"]
+	path = PBB
+	url = https://github.com/Masafuro/PBB.git
+[submodule "PS"]
+	path = PS
+	url = https://github.com/Masafuro/PS.git
